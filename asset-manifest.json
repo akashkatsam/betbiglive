@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/betbiglive/static/css/main.09abb90d.css",
+    "main.js": "/betbiglive/static/js/main.e863c7e9.js",
+    "static/js/787.33ca57d9.chunk.js": "/betbiglive/static/js/787.33ca57d9.chunk.js",
+    "static/media/horse.png": "/betbiglive/static/media/horse.39eafac4883b3bf5454b.png",
+    "static/media/neet.jpg": "/betbiglive/static/media/neet.dfe6574ff36e8d9902cd.jpg",
+    "static/media/4.jpg": "/betbiglive/static/media/4.2d934729f0d36aec88cc.jpg",
+    "static/media/2.jpg": "/betbiglive/static/media/2.24e8ac0de0e8ec6a8aab.jpg",
+    "static/media/3.jpg": "/betbiglive/static/media/3.b0e5955b8054b21124b4.jpg",
+    "static/media/5.jpg": "/betbiglive/static/media/5.6b9b3faffe76341231e9.jpg",
+    "static/media/1.jpg": "/betbiglive/static/media/1.2c0a2397bfb9eb97fe08.jpg",
+    "index.html": "/betbiglive/index.html",
+    "main.09abb90d.css.map": "/betbiglive/static/css/main.09abb90d.css.map",
+    "main.e863c7e9.js.map": "/betbiglive/static/js/main.e863c7e9.js.map",
+    "787.33ca57d9.chunk.js.map": "/betbiglive/static/js/787.33ca57d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09abb90d.css",
+    "static/js/main.e863c7e9.js"
+  ]
+}
